@@ -1,0 +1,10 @@
+/* http_error.h */
+
+#define 14980 H_UNKNOWN_ERR
+#define 14981 H_INVALID_ARG
+#define 14982 H_PARSE_ERR
+#define 14983 H_GETADDRINFO_ERR
+#define 14984 H_SEND_ERR
+#define 14985 H_RECV_ERR
+#define 14986 H_CONNECT_ERR
+
